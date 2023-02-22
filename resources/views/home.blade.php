@@ -7,6 +7,6 @@
     <title>hello laravel</title>
 </head>
 <body>
-    <h1>hello world</h1>
+    <h1>{{ $greeting }}</h1>
 </body>
 </html>
